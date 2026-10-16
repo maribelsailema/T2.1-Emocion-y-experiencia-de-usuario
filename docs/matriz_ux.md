@@ -1,11 +1,5 @@
 # 📊 Matriz de Experiencia de Usuario (UX) — SuperOfertas Ecuador
 
-**Proyecto:** Evaluación y Rediseño UX — SuperOfertas Ecuador  
-**Asignatura:** Interacción Humano Computador (IHC)  
-**Universidad:** Universidad Técnica de Ambato — FISEI  
-**Grupo:** 1  
-
-
 ---
 
 ## 1. Introducción

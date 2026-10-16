@@ -1,11 +1,5 @@
 # 🛒 Identificación de Momentos de Interacción — SuperOfertas Ecuador
 
-**Proyecto:** Evaluación y Rediseño UX — SuperOfertas Ecuador  
-**Asignatura:** Interacción Humano Computador (IHC)  
-**Universidad:** Universidad Técnica de Ambato — FISEI  
-**Grupo:** 1  
-**Responsable:** Sarco Sailema Viviana Maribel  
-**Issue:** #1
 
 ---
 
