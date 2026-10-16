@@ -154,18 +154,7 @@ Cada integrante debe seguir el siguiente proceso:
 7. Aplicar las correcciones necesarias.
 8. Fusionar el Pull Request una vez aprobado.
 
-### 🔍 Revisión cruzada de Pull Requests
 
-| Integrante | PR propio | Revisa el PR de |
-|---|---|---|
-| **Viviana** | Por asignar | Sebastián |
-| **Alex** | Por asignar | Wilson |
-| **Sebastián** | Por asignar | Viviana |
-| **Wilson** | Por asignar | Alex |
-
-> Los números de los Pull Requests se actualizarán cuando sean creados. Cada integrante deberá revisar un PR distinto al suyo.
-
----
 
 ## 📁 8. Estructura del repositorio
 
@@ -245,65 +234,9 @@ Los resultados finales deberán basarse en las observaciones y mediciones obteni
 | **Mermaid** | Representación de curvas emocionales y diagramas. |
 | **PDF** | Presentación consolidada de evidencias y conclusiones. |
 
----
 
-## 🔗 11. Enlaces del proyecto
 
-| Recurso | Enlace |
-|---|---|
-| **Repositorio GitHub** | Agregar URL del repositorio |
-| **Prototipo Figma** | [Consultar enlace](prototipos/enlace_figma.md) |
-| **Curva emocional inicial** | [Ver documento](resultados/curva_emocional_inicial.md) |
-| **Curva emocional final** | [Ver documento](resultados/curva_emocional_final.md) |
-| **Matriz UX** | [Ver matriz](docs/matriz_ux.md) |
-| **Comparación antes/después** | [Ver comparación](docs/comparacion_antes_despues.md) |
-| **Informe final PDF** | [Ver informe](resultados/informe_final.pdf) |
-
-> Los enlaces a archivos internos funcionarán una vez que los documentos se encuentren incorporados en las rutas indicadas. El enlace externo de Figma debe configurarse con los permisos adecuados.
-
----
-
-## ✅ 12. Lista de verificación final
-
-### Análisis inicial
-
-- [ ] Identificar cinco momentos de interacción.
-- [ ] Describir las etapas antes, durante y después.
-- [ ] Evaluar las emociones de al menos tres usuarios.
-- [ ] Elaborar la curva emocional inicial.
-- [ ] Identificar los momentos críticos.
-
-### Matriz UX y rediseño
-
-- [ ] Elaborar la matriz de momento, emoción, evidencia y mejora.
-- [ ] Proponer mejoras fundamentadas en los hallazgos.
-- [ ] Crear el prototipo rediseñado en Figma.
-- [ ] Elaborar la comparación visual antes/después.
-
-### Verificación
-
-- [ ] Realizar una nueva prueba de usuario.
-- [ ] Registrar los resultados de la segunda evaluación.
-- [ ] Elaborar la curva emocional final.
-- [ ] Comparar los resultados iniciales y finales.
-- [ ] Redactar las conclusiones.
-
-### Colaboración y entrega
-
-- [ ] Cada integrante cuenta con un Issue asignado.
-- [ ] Cada integrante desarrolla su trabajo en una rama individual.
-- [ ] Cada integrante registra sus commits.
-- [ ] Cada integrante crea un Pull Request.
-- [ ] Cada Pull Request es revisado por un compañero diferente.
-- [ ] Los cambios aprobados se integran en `main`.
-- [ ] El PDF final incluye curvas, matriz UX, capturas, comparación y conclusiones.
-- [ ] Se incluye el enlace al prototipo Figma.
-- [ ] Se incluye la URL del repositorio GitHub.
-- [ ] Se entrega el documento PDF en Moodle.
-
----
-
-## 📚 13. Conclusiones
+## 📚 11. Conclusiones
 
 Las conclusiones definitivas se incorporarán una vez completadas las evaluaciones inicial y final.
 
@@ -317,17 +250,6 @@ Para consultar las conclusiones detalladas, revisar el archivo [`docs/conclusion
 
 ---
 
-## 🏫 14. Información académica
-
-**Universidad Técnica de Ambato**  
-**Facultad de Ingeniería en Sistemas, Electrónica e Industrial (FISEI)**  
-**Carrera de Software**  
-**Asignatura:** Interacción Humano Computador  
-**Semestre:** Quinto semestre — Paralelo "A"  
-**Grupo:** 1  
-**Año:** 2026
-
----
 
 **SuperOfertas Ecuador — Evaluación y Rediseño UX**
 
