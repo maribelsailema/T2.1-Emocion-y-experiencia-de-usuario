@@ -1,6 +1,5 @@
-# 👥 Evaluación de Usuarios — Interfaz Original SuperOfertas Ecuador
+# 👥 Evaluación de Usuarios 
 
-> **Issue #2** · Rama `feature/evaluacion-emocional`
 > **Responsable:** Alex Fabricio Guachi Aucapiña
 > **Proyecto:** Evaluación y Rediseño UX — IHC, Quinto semestre "A", Grupo 1, UTA-FISEI
 
@@ -8,7 +7,7 @@
 
 ## 1. Introducción
 
-Este documento registra la evaluación de la experiencia de usuario de la pantalla **"Revisa la dirección (Mapa)"** de SuperOfertas Ecuador en su versión original. La evaluación busca contrastar con usuarios las hipótesis planteadas en `docs/momentos_interaccion.md` e identificar emociones, dificultades y momentos críticos durante la revisión de una dirección de entrega.
+Este documento registra la evaluación de la experiencia de usuario en su versión original. La evaluación busca contrastar con usuarios las hipótesis planteadas en `docs/momentos_interaccion.md` e identificar emociones, dificultades y momentos críticos durante la revisión de una dirección de entrega.
 
 ## 2. Objetivo
 
@@ -24,16 +23,15 @@ Cada participante observó la captura de la interfaz original (`evidencias/inter
 
 | N.º | Participante | Rol en la prueba | Fecha | Medio de aplicación |
 |:---:|---|---|---|---|
-| 1 | Daniel Luisa | Usuario evaluador | [completar] | [completar] |
-| 2 | Heidi Villavicencio | Usuaria evaluadora | [completar] | [completar] |
-| 3 | Antony Semblantes | Usuario evaluador | [completar] | [completar] |
+| 1 | Daniel Luisa | Usuario evaluador | 16/10/2026 | Imagen del prototipo |
+| 2 | Heidi Villavicencio | Usuaria evaluadora | 16/10/2026 | Imagen del prototipo |
+| 3 | Antony Semblantes | Usuario evaluador | 16/10/2026 | Imagen del prototipo |
 
 ## 5. Metodología
 
 - **Tipo de prueba:** evaluación individual con cuestionario guiado sobre la interfaz original.
 - **Material:** captura de la pantalla original y cuestionario de 8 preguntas.
 - **Registro:** cada participante asignó un valor emocional por momento y justificó su respuesta con un comentario breve.
-- **Evidencia:** respuestas originales de cada participante, archivadas en `evidencias/prueba_inicial/`.
 
 ### Escala emocional
 
@@ -163,19 +161,3 @@ Las respuestas de los tres participantes coinciden en los siguientes puntos:
 3. **M5 (resultado de la decisión)** y **M2 (interpretación de la dirección)** también son críticos: faltan confirmaciones y una relación clara entre dirección y marcador.
 4. Los momentos **M1 y M3 son neutrales**: los usuarios comprenden la tarea y los símbolos del mapa, aunque piden señalización sobre cómo editar la ubicación.
 5. No se registró ninguna valoración de +2, y las únicas valoraciones positivas (+1) corresponden a la llegada a la pantalla (Daniel) y a los controles del mapa (Antony).
-
-## 12. Insumos para la matriz UX
-
-| Momento | Emoción observada (promedio) | Problema confirmado por usuarios | Propuesta sugerida por los participantes |
-|---|:---:|---|---|
-| M1 | 0.00 | Colores y promociones distraen. | Reducir saturación visual. |
-| M2 | -1.00 | No se verifica que el marcador corresponda a la dirección. | Relacionar claramente marcador y dirección; mapa más preciso. |
-| M3 | 0.00 | No hay indicación de que se pueda mover el marcador o editar. | Hacer el mapa interactivo y ofrecer editar la dirección. |
-| M4 | -1.67 | «OMITIR» domina; «Guardar» parece inactivo. | Convertir «Guardar dirección» en el botón principal. |
-| M5 | -1.33 | No hay confirmación ni explicación del siguiente paso. | Mensaje de confirmación antes y después de continuar. |
-
-> Esta tabla se comparte con **Viviana Sarco** para completar la matriz UX (`docs/matriz_ux.md`).
-
-## 13. Evidencias
-
-Las respuestas originales de los participantes se encuentran en `evidencias/prueba_inicial/` (ver su `README.md`).

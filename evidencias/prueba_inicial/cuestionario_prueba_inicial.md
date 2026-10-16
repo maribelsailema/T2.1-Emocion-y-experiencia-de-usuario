@@ -1,6 +1,4 @@
-# 📝 Cuestionario de la Prueba Inicial — SuperOfertas Ecuador
-
-**Pantalla evaluada:** "Revisa la dirección (Mapa)" — interfaz original
+# 📝 Cuestionario de la Prueba Inicial
 
 ---
 
@@ -18,7 +16,7 @@ Estás comprando en línea y llegas al paso 4, "Revisa la dirección". Tu tarea 
 | **-1** | Frustrado |
 | **-2** | Muy frustrado |
 
-## Preguntas por momento
+## Preguntas
 
 Responde cada pregunta con un número de -2 a +2 y una frase corta.
 

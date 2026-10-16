@@ -1,12 +1,5 @@
 # 📈 Curva Emocional Inicial — SuperOfertas Ecuador
 
-> **Issue #2** · Rama `feature/evaluacion-emocional`
-> **Pantalla evaluada:** "Revisa la dirección (Mapa)" — interfaz original
-> **Participantes:** Daniel Luisa, Heidi Villavicencio, Antony Semblantes
-> **Fuente de datos:** `docs/evaluacion_usuarios.md`
-
----
-
 ## 1. Escala emocional
 
 | Valor | Nivel |
@@ -46,8 +39,6 @@ xychart-beta
 ```
 
 **Series (en orden de aparición):** 1) Promedio del grupo · 2) Daniel · 3) Heidi · 4) Antony.
-
-> Si el gráfico no se visualiza en tu visor de Markdown, usa la versión en texto de la sección 3.2.
 
 ### 3.2 Versión en texto (promedio del grupo)
 
@@ -153,6 +144,3 @@ Los dos momentos críticos planteados inicialmente (M2 y M4) se confirmaron, y s
 - Muestra de tres participantes.
 - Valores autorreportados, sin medición fisiológica ni observación directa.
 
-## 10. Datos entregados a la matriz UX
-
-Los promedios por momento (0.00, -1.00, 0.00, -1.67, -1.33) y los problemas confirmados se comparten con **Viviana Sarco** para completar `docs/matriz_ux.md`.
